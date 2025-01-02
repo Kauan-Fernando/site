@@ -91,8 +91,7 @@ height: 550px;
 margin: auto;
 }
 #video2 {
-    min-width: 320px;
-    max-width: 720px;
+    width: 320px;
     height: 510px;
     display: block;
     margin-left: auto;
