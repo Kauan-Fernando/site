@@ -83,28 +83,23 @@ font-style: italic;
 text-indent: 30px;
 }
 #video{
-background-color: #083008;
+    background-color: #062f06;
 min-width: 320px;
-max-width: 1900px;
-height: 620px;
-
+max-width: 900px;
+display: block;
+height: 550px;
+margin: auto;
 }
 #video2 {
-margin-left: 87px;
-margin-top: 25px;
-width: 80%;
+    min-width: 320px;
+    max-width: 720px;
+    height: 510px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
 
-}
 
-#fundo {
-    background-color: #093b09;
-    border-color: #1a761a;
-    border-radius: 30px;
-    width: 1000px;
-    margin: 30px;
-    margin: auto;
-   
-}
 
 .android {
 
@@ -157,10 +152,10 @@ margin-left: 40px;
 }
 
 #bugdroid {
-    width: 450px;
-    height: 250px;
-    margin-left: 230px;
-
+    min-width: 320px;
+    max-width: 900px;
+    margin: auto;
+    margin-left: 40px;
 }
 
 
