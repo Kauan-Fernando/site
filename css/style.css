@@ -154,8 +154,8 @@ margin-left: 40px;
 #bugdroid {
     min-width: 320px;
     max-width: 900px;
+    display: block;
     margin: auto;
-    margin-left: 40px;
 }
 
 
